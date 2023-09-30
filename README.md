@@ -11,7 +11,7 @@ Models. You need to create the following relationships:
 - A Pizza has many Restaurants through RestaurantPizza
 - A RestaurantPizza belongs to a Restaurant and belongs to a Pizza
 
-![domain.png](server/domain.png)
+!(server/domain.png)
 
 
 ### Validations
